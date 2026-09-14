@@ -1,0 +1,1 @@
+export { RedisConnectionManager } from './RedisConnectionManager';
